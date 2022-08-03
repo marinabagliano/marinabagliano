@@ -1,6 +1,6 @@
 ### Hi there, I'am Marina Bagliano👋
 #### I'm undergraduate in Computer Science at Federal University of Uberlândia.
-#### Computer Graphics technician for the Federal Institute of Triângulo Mineiro.
+#### Computer Graphics technician from Federal Institute of Triângulo Mineiro.
 
 #### My skills!
 
