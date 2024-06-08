@@ -1,8 +1,8 @@
 ### Hi there, I'am Marina Bagliano👋
-#### I'm undergraduate in Computer Science at Federal University of Uberlândia.
+#### I'm undergraduate in Computer Science at Federal University of Uberlândia and Data Intelligence intern at Bayer Crop Science
 #### Computer Graphics technician from Federal Institute of Triângulo Mineiro.
 #### I talk about: 
-##### Software development, 3D Game, Assistive Technology, Computer Vision
+##### Data Engineering, Software development, 3D Game
 
 #### My skills!
 
